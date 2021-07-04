@@ -1,0 +1,15 @@
+{
+  "name": "users",
+  "items": [
+    {
+      "id": 1,
+      "name": "Bobby",
+      "age": 15
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "age": 20
+    }
+  ]
+}

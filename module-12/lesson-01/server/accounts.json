@@ -1,0 +1,29 @@
+{
+  "name": "accounts",
+  "items": [
+    {
+      "id": 1,
+      "userId": 1,
+      "amount": 1000,
+      "number": 260087654321
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "amount": 2000,
+      "number": 260012345678
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "amount": 3000,
+      "number": 260098745678
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "amount": 4000,
+      "number": 260047568392
+    }
+  ]
+}

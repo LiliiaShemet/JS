@@ -1,0 +1,15 @@
+.module ul {
+  display: none;
+}
+
+.module:hover ul {
+  display: block;
+}
+
+.module:hover {
+  background-color: antiquewhite;
+}
+
+.module li:hover {
+  background-color: rgb(228, 210, 187);
+}

@@ -1,0 +1,20 @@
+.counter {
+  display: flex;
+}
+.counter button {
+  width: 50px;
+  height: 50px;
+  font-size: 40px;
+  border-radius: 50%;
+}
+.counter button:hover {
+  cursor: pointer;
+}
+.counter button:active {
+  background-color: antiquewhite;
+}
+.counter-value {
+  margin: 0;
+  padding: 0 20px;
+  font-size: 40px;
+}

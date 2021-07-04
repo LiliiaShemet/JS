@@ -1,0 +1,25 @@
+{
+  "name": "users",
+  "items": [
+    {
+      "id": 1,
+      "name": "Bobby",
+      "age": 15
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": 4,
+      "name": "Chris",
+      "age": 35
+    }
+  ]
+}
